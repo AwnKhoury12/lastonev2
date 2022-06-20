@@ -1,5 +1,5 @@
 parameters = {
-    "community-link": "http://aminoapps.com/c/woolf_proxy" 
+    "community-link": "http://aminoapps.com/c/Tshshshny"
 }
 
 import os
